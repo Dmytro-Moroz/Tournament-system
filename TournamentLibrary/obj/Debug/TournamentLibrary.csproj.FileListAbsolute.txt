@@ -1,0 +1,8 @@
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyTournamentApp\TournamentLibrary\bin\Debug\TournamentLibrary.dll
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyTournamentApp\TournamentLibrary\bin\Debug\TournamentLibrary.pdb
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyTournamentApp\TournamentLibrary\obj\Debug\TournamentLibrary.csprojAssemblyReference.cache
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyTournamentApp\TournamentLibrary\obj\Debug\TournamentLibrary.dll
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyTournamentApp\TournamentLibrary\obj\Debug\TournamentLibrary.pdb
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyTournamentApp\TournamentLibrary\bin\Debug\Dapper.dll
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyTournamentApp\TournamentLibrary\bin\Debug\Dapper.xml
+C:\Users\hatefrost\Desktop\C\My Applications C#\MyTournamentApp\TournamentLibrary\obj\Debug\TournamentLibrary.csproj.CopyComplete
